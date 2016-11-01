@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB_09">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encyclopedia Britannica, 9th Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
+               Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is licensed
+               under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
+               General Information. 11th ed. NY: Encyclopaedia Britannica Company, 1911. </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Text derived from original OCR by the Digital Scholarship Center, Temple University,
+            produced with Abby FineReader 12. Source images were created by California Digital
+            Archive, and uploaded to the Internet Archive, JP2 format. Basic e-Learning Library
+            (BeLL), archived in the Internet Archive, JP2 format. Print source was the Encyclopaedia
+            Britannica, 9th ed., 25 vols. (NY: Charles Scribner's Sons, 1875-1889) in the collection
+            of the University of California Library, Berkeley, CA.</p>
+         <projectDesc>
+            <p>These texts are generated for the use of the Encyclopedia Project at Temple
+               University, which is conducting research into the language of knowledge in the
+               nineteenth century.</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="grc">Greek</language>
+            <language ident="latn">Latin</language>
+            <language ident="fr">French</language>
+            <language ident="hebr">Hebrew</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>Header created 10/27/16</change>
+      </revisionDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div type="letter_r">
+            <xi:include href="EB_09/EB_09-r-0001.xml"/>
+            <xi:include href="EB_09/EB_09-r-0002.xml"/>
+         </div>
+      </body>
+   </text>
+</TEI>

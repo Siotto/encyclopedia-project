@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>Encylopedic Time</title>
+                <sponsor>Encyclopedia Project, Temple University</sponsor>
+                <principal>Peter Melville Logan</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
+                    Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is
+                    licensed under a Creative Commons Attribution-ShareAlike 4.0 International
+                    License.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Different Editions of the Encyclopedia Britannica: A Dictionary of Arts,
+                    Sciences, Literature and General Information (EB) which are in the public
+                    domain. Detailed information for each edition in its TEI header.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>Header created 10/27/16</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <xi:include href="02-wrapper_EB_03.xml"/>
+    <xi:include href="02-wrapper_EB_07.xml"/>
+    <xi:include href="02-wrapper_EB_09.xml"/>
+    <xi:include href="02-wrapper_EB_11.xml"/>
+
+</teiCorpus>

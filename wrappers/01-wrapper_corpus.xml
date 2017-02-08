@@ -27,9 +27,9 @@
         </revisionDesc>
     </teiHeader>
 
-    <xi:include href="02-wrapper_EB_03.xml"/>
-    <xi:include href="02-wrapper_EB_07.xml"/>
-    <xi:include href="02-wrapper_EB_09.xml"/>
-    <xi:include href="02-wrapper_EB_11.xml"/>
+    <xi:include href="02-wrapper_EB03.xml"/>
+    <xi:include href="02-wrapper_EB07.xml"/>
+    <xi:include href="02-wrapper_EB09.xml"/>
+    <xi:include href="02-wrapper_EB11.xml"/>
 
 </teiCorpus>

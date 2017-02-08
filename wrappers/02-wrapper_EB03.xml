@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB_03">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB03">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,8 @@
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="EB_03/EB_03-r-0001.xml"/>
-            <xi:include href="EB_03/EB_03-r-0002.xml"/>
+            <xi:include href="../EB03/EB_03-r-0001.xml"/>
+            <xi:include href="../EB03/EB_03-r-0002.xml"/>
          </div>
       </body>
    </text>

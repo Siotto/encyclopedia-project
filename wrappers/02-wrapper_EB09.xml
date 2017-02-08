@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB_09">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb09">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Encyclopedia Britannica, 9th Edition</title>
+            <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,

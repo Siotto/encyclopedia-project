@@ -7,7 +7,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Encylopedic Time</title>
-                <sponsor>Encyclopedia Project, Temple University</sponsor>
+                <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
                 <principal>Peter Melville Logan</principal>
             </titleStmt>
             <publicationStmt>
@@ -27,9 +27,9 @@
         </revisionDesc>
     </teiHeader>
 
-    <xi:include href="02-wrapper_EB03.xml"/>
-    <xi:include href="02-wrapper_EB07.xml"/>
-    <xi:include href="02-wrapper_EB09.xml"/>
-    <xi:include href="02-wrapper_EB11.xml"/>
+    <xi:include href="02-wrapper_eb03.xml"/>
+    <xi:include href="02-wrapper_eb07.xml"/>
+    <xi:include href="02-wrapper_eb09.xml"/>
+    <xi:include href="02-wrapper_eb11.xml"/>
 
 </teiCorpus>

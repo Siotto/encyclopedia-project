@@ -5,18 +5,18 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Encyclopedia Britannica, 3rd Edition</title>
+            <title>Encyclopedia Britannica, 3rd Edition, 1788-97</title>
             <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
             <author/>
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
-               Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is licensed
+               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed
                under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
-               General Information. 11th ed. NY: Cambridge University Press, 1911. </bibl>
+               General Information, 18 vols., + 2 suppl. vols. Edinburgh: A. Bell and C. MacFarquhar, 1788-1797.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -24,7 +24,7 @@
             produced with Abby FineReader 12. Source images were created by the Getty Research
             Institute, and uploaded to the Internet Archive, TIFF format. Print source was the
             Encyclopaedia Britannica, 3rd ed., 18 vols. (Edinburgh: A. Bell and C. MacFarquhar,
-            1788-1797).</p>
+            1788-1797), located in the Getty Research Institute.</p>
          <projectDesc>
             <p>These texts are generated for the use of the Encyclopedia Project at Temple
                University.</p>
@@ -40,15 +40,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change>Header created 10/27/16</change>
+         <change>02/10/17 Bibliographical information updated</change>
+         <change>10/27/16 Header created</change>
       </revisionDesc>
    </teiHeader>
 
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="../EB03/EB_03-r-0001.xml"/>
-            <xi:include href="../EB03/EB_03-r-0002.xml"/>
+            <xi:include href="../eb03/EB_03-r-0001.xml"/>
+            <xi:include href="../eb03/EB_03-r-0002.xml"/>
          </div>
       </body>
    </text>

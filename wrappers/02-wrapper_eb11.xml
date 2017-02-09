@@ -5,17 +5,17 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Encyclopedia Britannica, 11th Edition</title>
+            <title>Encyclopedia Britannica, 11th Edition, 1910-11</title>
             <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
-               Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is licensed
+               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed
                under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
-               General Information. 11th ed. NY: Cambridge University Press, 1911. </bibl>
+               General Information. 11th ed. NY: Cambridge University Press, 1910-1911. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -39,15 +39,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change>Header created 10/27/16</change>
+         <change>02-10-17 Bibliographic information updated</change>
+         <change>10/27/16 Header created </change>
       </revisionDesc>
    </teiHeader>
 
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="../EB11/EB_11-r-0001.xml"/>
-            <xi:include href="../EB11/EB_11-r-0002.xml"/>
+            <xi:include href="../eb11/EB_11-r-0001.xml"/>
+            <xi:include href="../eb11/EB_11-r-0002.xml"/>
          </div>
       </body>
    </text>

@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB_11">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb07">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Encyclopedia Britannica, 11th Edition</title>
+            <title>Encyclopedia Britannica, 7th Edition, 1830-42</title>
+            <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
-               Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is licensed
-               under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed under a
+               Creative Commons Attribution-ShareAlike 4.0 International License.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
-               General Information. 11th ed. NY: Cambridge University Press, 1911. </bibl>
+               General Information, 7th ed., 21 vols. (Edinburgh: Adam and Charles Black,
+               1830-1842).</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <p>Text derived from original OCR by the Digital Scholarship Center, Temple University,
-            produced with Abby FineReader 12. Source images were created by Basic e-Learning Library
-            (BeLL), and uploaded to the Internet Archive, JP2 format. Print source was the Encyclopaedia
-            Britannica, 11th ed., 29 vols. (NY: Cambridge University Press, 1910-1911) in the
-            collection of the James J. Hill Center Reference Library, St. Paul, MN.</p>
+            produced with Abby FineReader 12. Source images were created by Google for Hathi Trust,
+            PDF format. Print source was the Encyclopaedia Britannica, 7th ed., 21 vols. (Edinburgh:
+            Adam and Charles Black, 1830-1842) in the collection of the University of Wisconsin
+            Library, Madison, WI.</p>
          <projectDesc>
             <p>These texts are generated for the use of the Encyclopedia Project at Temple
                University.</p>
@@ -38,15 +40,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change>Header created 10/27/16</change>
+         <change>02-10-17 Title and publication stmt updated</change>
+         <change>10/27/16 Header created </change>
       </revisionDesc>
    </teiHeader>
 
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="EB_11/EB_11-r-0001.xml"/>
-            <xi:include href="EB_11/EB_11-r-0002.xml"/>
+            <xi:include href="../eb07/EB_07-r-0001.xml"/>
+            <xi:include href="../eb07/EB_07-r-0002.xml"/>
          </div>
       </body>
    </text>

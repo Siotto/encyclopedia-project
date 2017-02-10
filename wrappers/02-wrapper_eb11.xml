@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="EB_03">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xml:id="eb11">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Encyclopedia Britannica, 3rd Edition</title>
-            <author/>
+            <title>Encyclopedia Britannica, 11th Edition, 1910-11</title>
+            <sponsor>Temple University Libraries, Digital Scholarship Center</sponsor>
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
-               Pennsylvania, US) as part of the Project "Encyclopedic Time." This work is licensed
+               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed
                under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
-               General Information. 11th ed. NY: Cambridge University Press, 1911. </bibl>
+               General Information. 11th ed. NY: Cambridge University Press, 1910-1911. </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <p>Text derived from original OCR by the Digital Scholarship Center, Temple University,
-            produced with Abby FineReader 12. Source images were created by the Getty Research
-            Institute, and uploaded to the Internet Archive, TIFF format. Print source was the
-            Encyclopaedia Britannica, 3rd ed., 18 vols. (Edinburgh: A. Bell and C. MacFarquhar,
-            1788-1797).</p>
+            produced with Abby FineReader 12. Source images were created by Basic e-Learning Library
+            (BeLL), and uploaded to the Internet Archive, JP2 format. Print source was the Encyclopaedia
+            Britannica, 11th ed., 29 vols. (NY: Cambridge University Press, 1910-1911) in the
+            collection of the James J. Hill Center Reference Library, St. Paul, MN.</p>
          <projectDesc>
             <p>These texts are generated for the use of the Encyclopedia Project at Temple
                University.</p>
@@ -39,15 +39,16 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change>Header created 10/27/16</change>
+         <change>02-10-17 Bibliographic information updated</change>
+         <change>10/27/16 Header created </change>
       </revisionDesc>
    </teiHeader>
 
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="EB_03/EB_03-r-0001.xml"/>
-            <xi:include href="EB_03/EB_03-r-0002.xml"/>
+            <xi:include href="../eb11/EB_11-r-0001.xml"/>
+            <xi:include href="../eb11/EB_11-r-0002.xml"/>
          </div>
       </body>
    </text>

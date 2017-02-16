@@ -10,8 +10,8 @@
          </titleStmt>
          <publicationStmt>
             <p>Produced at the Digital Scholarship Center at Temple University (Philadelphia,
-               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed
-               under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+               Pennsylvania, US) as part of the Encyclopedia Project. This work is licensed under a
+               Creative Commons Attribution-ShareAlike 4.0 International License.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>The Encyclopaedia Britannica: A Dictionary of Arts, Sciences, Literature and
@@ -46,7 +46,8 @@
 
    <text>
       <body>
-            <div type="letter_r">
+         <div type="letter_r">
+            <p>
                <xi:include href="../eb11/eb11-22-r-0765_01.xml"/>
                <xi:include href="../eb11/eb11-22-r-0765_02.xml"/>
                <xi:include href="../eb11/eb11-22-r-0765_03.xml"/>
@@ -414,6 +415,7 @@
                <xi:include href="../eb11/eb11-23-r-0035_01.xml"/>
                <xi:include href="../eb11/eb11-23-r-0036_01.xml"/>
                <xi:include href="../eb11/eb11-23-r-0036_02.xml"/>
+            </p>
          </div>
       </body>
    </text>

@@ -48,8 +48,9 @@
    <text>
       <body>
          <div type="letter_r">
-            <xi:include href="../eb09/EB_09-r-0001.xml"/>
-            <xi:include href="../eb09/EB_09-r-0002.xml"/>
+            <p><xi:include href="../eb09/EB_09-r-0001.xml"/>
+               <xi:include href="../eb09/EB_09-r-0002.xml"/>
+            </p>
          </div>
       </body>
    </text>

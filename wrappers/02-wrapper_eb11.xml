@@ -46,8 +46,8 @@
 
    <text>
       <body>
-         <div type="letter_r">
-            <p>
+         <div>
+            <div type="letter_r">
                <xi:include href="../eb11/eb11-22-r-0765_01.xml"/>
                <xi:include href="../eb11/eb11-22-r-0765_02.xml"/>
                <xi:include href="../eb11/eb11-22-r-0765_03.xml"/>
@@ -415,7 +415,7 @@
                <xi:include href="../eb11/eb11-23-r-0035_01.xml"/>
                <xi:include href="../eb11/eb11-23-r-0036_01.xml"/>
                <xi:include href="../eb11/eb11-23-r-0036_02.xml"/>
-            </p>
+            </div>
          </div>
       </body>
    </text>

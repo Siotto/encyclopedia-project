@@ -48,11 +48,11 @@
 
    <text>
       <body>
-         <div type="letter_r">
-            <p>
+         <div>
+            <div type="letter_r">
                <xi:include href="../eb03/EB_03-r-0001.xml"/>
                <xi:include href="../eb03/EB_03-r-0002.xml"/>
-            </p>
+            </div>
          </div>
       </body>
    </text>
